@@ -1,0 +1,14 @@
+blank_issues_enabled: false
+contact_links:
+  - name: Bug reports
+    url: https://discord.gg/PCU5rVysw
+    about: Report reproducible Curlr bugs in the community bug-report forum.
+  - name: Feature requests
+    url: https://discord.gg/PCU5rVysw
+    about: Suggest and discuss product ideas with the Curlr community.
+  - name: Product support
+    url: https://curlr.dev/
+    about: Find Curlr information, downloads, and support routes.
+  - name: Security vulnerabilities
+    url: https://curlr.dev/
+    about: Do not open a public issue. Contact security@curlr.dev privately.
